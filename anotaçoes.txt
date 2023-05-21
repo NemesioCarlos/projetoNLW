@@ -1,0 +1,25 @@
+ANOTAÇOES:
+   AULA 2
+criação da tag <nav>
+
+PRA POR UMA FOTO: img=""
+PRA  CONECTAR O CSS USA TAG <link>
+box model 
+PRA O LINK ABRIR EM OUTRA PAGINA target="_blank";
+   AULA 3
+grid layout Uma técnica em que podemos criar layouts através do uso de colunas e linhas;
+tag <aside> poe um conteudo ao lado
+tag <span> para textos em geral
+
+  AULA 5
+GIT 
+commit - são pontos na 'historia'
+stage area - area de preparação de arquivos que vao receber o commit
+Repository - local onde vai ficar o historico do projeto
+Branch - linha do tempo 
+ INICIAR O GIT
+abre o terminal do vscode
+git init - iniciar o programa
+git add "nome.doarquivo" ou pra adicionar todos: git add .
+abre um commit com uma mensagem: git commit -m "mensagem" 
+	
